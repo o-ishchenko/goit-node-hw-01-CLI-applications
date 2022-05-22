@@ -8,6 +8,6 @@
 
 [Файл contacts.json после добавления нового контакта](https://ibb.co/SrvSYGD)
 
-[Удаляем контакт](https://ibb.co/51XTdmR)
+[Удаляем контакт](https://ibb.co/GJC6dv7)
 
-[Файл contacts.json после удаления контакта](https://ibb.co/Gp6FZps)
+[Файл contacts.json после удаления контакта](https://ibb.co/JKgHcDV)
