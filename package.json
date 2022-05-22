@@ -1,0 +1,29 @@
+{
+  "name": "goit-node-hw-01-CLI-applications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-ishchenko/goit-node-hw-01-CLI-applications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o-ishchenko/goit-node-hw-01-CLI-applications/issues"
+  },
+  "homepage": "https://github.com/o-ishchenko/goit-node-hw-01-CLI-applications#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^17.5.1"
+  }
+}
